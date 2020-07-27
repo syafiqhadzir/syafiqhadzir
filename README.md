@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## About me 😄
 - I'm an independent security researcher from Cyberjaya, Malaysia :malaysia:.
@@ -6,6 +6,6 @@
 - I'm just another person who loves sharing some of his codes on GitHub :octocat:.
 
 
-## Reach me here 📫
-- on my twitter account [@SyafiqHadzir_](https://twitter.com/SyafiqHadzir_).
+## Reach me 📫
+- On my twitter account [@SyafiqHadzir_](https://twitter.com/SyafiqHadzir_).
 - If you are curious, you can also visit my [personal website](https://syafiqhadzir.dev).
