@@ -1,6 +1,18 @@
-# Hi there 👋
+<h2 align="center">👋 Hello! I'm Syafiq.</h2>
 
-Welcome to my GitHub page!
+<p align="center">
+  <a href="https://academic.syafiqhadzir.dev/">Academic</a>
+  &emsp;•&emsp;
+  <a href="https://blog.syafiqhadzir.dev/">Writings</a>
+  &emsp;•&emsp;
+  <a href="https://security.syafiqhadzir.dev/">Security</a>
+</p>
+
+<p align="center">
+  <a href="https://my.linkedin.com/in/syafiqhadzir" rel="nofollow norefferer">
+    <img src="https://img.shields.io/badge/-syafiqhadzir-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
+  </a>
+</p>
 
 ## About me 😄
 - I'm an independent security researcher from Cyberjaya, Malaysia :malaysia:.
