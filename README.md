@@ -1,8 +1,37 @@
-<h2 align="center">👋 Hello! I'm Syafiq.</h2>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=syafiqhadzir&show_icons=true&theme=default" /></p>
-
-- ⚙️ I use daily: `.cshmtl`, `.cs`, `.js`, `.html`, `.css`, `.php`, `.md`.
-- 🌱 Exploring `Cypress`, `Puppeteer` and `Playwright`.
-- 📫 Reach me: [twitter.com/syafiqhadzir_](https://twitter.com/syafiqhadzir_).
-- ⚡️ Fun fact: As a bleeding-edge enthusiast, I use Debian Sid for daily production.
+```json
+{
+  "Syafiq Hadzir": {
+    "Profile": [
+      {
+        "about": "As both a linguist and a programmer, codes are my poetries.",
+        "pronouns": "He/Him",
+        "location": "KUL, MY",
+        "workplace": {
+          "company": "Cloud Connect Sdn Bhd",
+          "position": "QA Engineer"
+        },
+        "competencies": {
+          "languages": ["JavaScript", "C#", "Python", "PHP", "C/C++"],
+            "technologies":{
+              "flavours" : {
+                "javascript": ["TypeScript", "CoffeeScript"],
+                "css": ["PostCSS", "Sass", "Stylus", "Less"]
+              },
+              "frameworks": {
+                "csharp": [".NET"],
+                "css":  ["Bootstrap", "Tailwind"],
+                "php": ["Laravel"],
+                "javascript": {
+                  "frontend": ["React", "Vue"],
+                  "backend": ["Next", "Nuxt", "Gatsby"],
+                  "testing": ["Cypress", "Puppeteer", "Playwright", "Mocha", "Jest"]
+                }
+              },
+            "databases": ["MySql", "PostgreSQL", "MongoDB"]
+          }
+        }
+      }
+    ]
+  }
+}
+```
