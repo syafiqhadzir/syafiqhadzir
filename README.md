@@ -31,8 +31,8 @@
                     "testing": ["PHPUnit"]
                 },
                 "javascript": {
-                  "frontend": ["React", "Vue"],
-                  "backend": ["Next", "Nuxt", "Gatsby"],
+                  "frontend": ["React", "Vue", "Nuxt", "Gatsby"],
+                  "backend": ["Next", "Express", "Node"],
                   "testing": ["Cypress", "Puppeteer", "Playwright", "Mocha", "Jest"]
                 }
               },
