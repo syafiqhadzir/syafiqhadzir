@@ -18,9 +18,18 @@
                 "css": ["PostCSS", "Sass", "Stylus", "Less"]
               },
               "frameworks": {
-                "csharp": [".NET"],
-                "css":  ["Bootstrap", "Tailwind"],
-                "php": ["Laravel"],
+                "csharp": {
+                    "backend": [".NET"],
+                    "testing": ["MSUnit", "NUnit", "Moq"]
+                },
+                "css": {
+                    "frontend": ["Bootstrap", "Tailwind"],
+                    "testing": ["BackstopJS", "Quixote", "CSSCritic"]
+                },
+                "php": {
+                    "backend": ["Laravel"],
+                    "testing": ["PHPUnit"]
+                },
                 "javascript": {
                   "frontend": ["React", "Vue"],
                   "backend": ["Next", "Nuxt", "Gatsby"],
