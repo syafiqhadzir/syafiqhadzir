@@ -4,7 +4,7 @@
     "Profile": [
       {
         "about": "As both a linguist and a programmer, codes are my poetries.",
-        "pronouns": "He/Him",
+        "pronouns": "Beliau/Baginda",
         "location": "KUL, MY",
         "workplace": {
           "company": "Cloud Connect Sdn Bhd",
